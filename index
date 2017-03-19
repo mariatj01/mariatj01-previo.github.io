@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+<meta charset='UTF-8'>
+
+<head>
+<link rel= "stylesheet" type = "text/css" href="html/estilos.css">
+</head>
+<title>Los 8 miles</title>
+<center>
+<h1>Los 8 Miles</h1>
+<table border='1'>
+<tr>
+<td><img src="figuras/everest.jpg" width= 200 height=100><a href="html/Everest.html"> Everest</a></td>
+<td> <img src="figuras/k2.jpg" width= 200 height=100><a href="html/K2.html"> K2</a></td> 
+</tr>
+<tr>
+<td><img src="figuras/kangchenjunga.jpg" width= 200 height=100><a href="html/Kangchenjunga.html"> Kangchenjunga</a> </td>
+<td><img src="figuras/lhotse.jpg" width= 200 height=100><a href="html/Lhotse.html">Lhotse </a></td>
+</tr>
+<tr>
+<td><img src="figuras/makalu.jpg" width= 200 height=100><a href="html/Makalu.html"> Makalu</a></td>
+<td><img src="figuras/cho oyu.jpg" width= 200 height=100><a href="html/Cho Oyu.html"> Cho Oyu</a></td>
+</tr>
+<tr>
+<td><img src="figuras/dhaulagiri.jpg" width= 200 height=100><a href="html/Dhaulagiri.html"> Dhaulagiri </a></td>
+<td><img src="figuras/manaslu.jpg" width= 200 height=100><a href="html/Manaslu.html"> Manaslu</a></td>
+</tr>
+<tr>
+<td><img src="figuras/nanga parbat.jpg" width= 200 height=100><a href="html/Nanga Parbat.html"> Nanga Parbat</a></td>
+<td><img src="figuras/annapurna.jpg" width= 200 height=100><a href="html/Annapurna.html"> Annapurna</a></td>
+</tr>
+<tr>
+<td><img src="figuras/gasherbrum1.jpg" width= 200 height=100><a href="html/Gasherbrum I.html"> Gasherbrum I</a></td>
+<td><img src="figuras/broad peak.jpg" width= 200 height=100><a href="html/Broad Peak.html"> Broad Peak</a></td>
+</tr>
+<tr>
+<td> <img src="figuras/shisha pangma.jpg" width= 200 height=100><a href="html/Shisha Pangma.html"> Shisha Pangma</a></td>
+<td><img src="figuras/gasherbrum2.jpg" width= 200 height=100><a href="html/Gasherbrum II.html"> Gasherbrum II</a></td>
+</tr>
+</table>
+</center>
+</hmtl>
+
